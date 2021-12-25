@@ -5,7 +5,7 @@
 > Random Forest - Decision Trees - KNN - Logistic Regression - ROC - Feature Importance
 
 In this project, we will predict how likely a customer will default a loan. This will be used as an input to make a decision whether a loan can be issued to a customer.
-We will implement multiple models to determine the appropriate model by comparing the model metrics.
+We will implement multiple models to determine the appropriate model by comparing the model metrics. [...](https://shouvikn.github.io/DS-Capstone-Proj)
 
 ![](image/problemstatement.png)
 
