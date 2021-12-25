@@ -1,6 +1,6 @@
 ## Data Science Projects
 
-### [Capstone Project : Loan Default Prediction]
+### [Capstone Project : Loan Default Prediction](https://shouvikn.github.io/DS-Capstone-Proj)
 
 
 ---
