@@ -27,3 +27,19 @@ In this project, we will cluster customer data from a bank. The goal is to inden
 - Recomend appropriate campaings for the idenitfied clusters
 
 ---
+
+### [Project 3 : Predtion of Housing Prices](https://github.com/shouvikn/dataprojects/blob/main/machinelearning/Project_%20Linear%20Regression(Boston%20House%20Price)%20(1).ipynb)
+> Linear Regression - Machine Learning - Model Metrics
+
+In this project, we will predict the housing prices of a town or a suburb based on the features of the locality provided to us. In the process, we need to identify the most important features in the dataset. We need to employ techniques of data preprocessing and build a linear regression model that predicts the prices for us.Each record in the dataset describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970.
+
+![](image/linearregression_cor.png)
+
+- Statiscal analysis to determin skewness of features
+- EDA to determine patterns and correlation between features
+- Implementation of linear regression model to predict housing prices
+- Feature selection using Variance Inflation Factor
+
+---
+
+
