@@ -1,12 +1,18 @@
 ## Data Science Projects
 
 ### [Capstone Project : Loan Default Prediction](https://shouvikn.github.io/DS-Capstone-Proj)
+> Exploratory Data Analysis - Data Cleansing - SMOTE - GridSearch - RandomSearch
+> Random Forest - Decision Trees - KNN - Logistic Regression - ROC - Feature Importance
 
+In this project, we will predict how likely a customer will default a loan. This will be used as an input to make a decision whether a loan can be issued to a customer.
+We will implement multiple models to determine the appropriate model by comparing the model metrics.
+
+![](image/problemstatement.png)
 
 ---
 
 ### [Project 1 : Unsupervised Learning - PCA & tSNE](https://github.com/shouvikn/dataprojects/blob/main/unsupervised_learn/Project%20PCA%20and%20tSNE.ipynb)
-> Principal Component Analysis - tSNE - Exploratory Data Analysis
+> Principal Component Analysis - tSNE - Exploratory Data Analysis 
 
 In this project, we will explore dimensionality reduction using PCA & tSNE algorithm. We will be using the inbuilt Iris dataset from sklearn package. The data contains information about three types of Iris flower - Setosa, Versicolour & Virginica. For every type of flower there are four features sepal length, sepal width, petal length and petal width. 
 
