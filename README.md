@@ -28,18 +28,36 @@ In this project, we will cluster customer data from a bank. The goal is to inden
 
 ---
 
-### [Project 3 : Predtion of Housing Prices](https://github.com/shouvikn/dataprojects/blob/main/machinelearning/Project_%20Linear%20Regression(Boston%20House%20Price)%20(1).ipynb)
+### [Project 3 : Prediction of Housing Prices](https://github.com/shouvikn/dataprojects/blob/main/machinelearning/Project_%20Linear%20Regression(Boston%20House%20Price)%20(1).ipynb)
 > Linear Regression - Machine Learning - Model Metrics
 
 In this project, we will predict the housing prices of a town or a suburb based on the features of the locality provided to us. In the process, we need to identify the most important features in the dataset. We need to employ techniques of data preprocessing and build a linear regression model that predicts the prices for us.Each record in the dataset describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970.
 
 ![](image/linearregression_cor.png)
 
-- Statiscal analysis to determin skewness of features
+- Statiscal analysis to determine skewness of features
 - EDA to determine patterns and correlation between features
 - Implementation of linear regression model to predict housing prices
 - Feature selection using Variance Inflation Factor
 
 ---
+
+### [Project 4 : Prediction of Loan Eligiblity](https://github.com/shouvikn/dataprojects/blob/main/machinelearning/Project_%20Classification_%20Loan%20Eligibility%20Prediction.ipynb)
+> Logistic Regression - k Nearest neighbors - Feature Importance
+
+In this project, we will predict whether a customer is eligible for bank loan. Credit risk is the default in payment of any loan by the borrower. In Banking sector this is an important factor to be considered before approving the loan of an applicant.Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
+
+Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers.
+
+![](image/logisticregression_feature.png)
+
+- Univariate and Bivariate Data Analysis
+- Handling of missing data
+- Implementation of logistic regression with feature importance
+- Implementation of kNN model 
+- Model comparision and recommendations
+
+---
+
 
 
