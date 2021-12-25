@@ -13,7 +13,7 @@ A bank's consumer credit department aims to simplify the decision-making process
 ### Project Artifacts
 
 #### [Project Report](https://github.com/shouvikn/dataprojects/blob/main/capstone/reports/LoanDefaultPrediction_ReportFinal_Shouvik.pdf)
-#### [Notebook](https://github.com/shouvikn/dataprojects/blob/main/capstone/notebook/Capstone_Loans_Default_Prediction_Shouvik_V3.ipynb)
+#### [Notebook](https://nbviewer.org/github/shouvikn/dataprojects/blob/main/capstone/notebook/Capstone_Loans_Default_Prediction_Shouvik_V3.ipynb)
 
 ---
 
@@ -100,30 +100,7 @@ After comparing model performance, RandomForest was selected as the best model f
 
 ---
 
-[Back to Projects](https://shouvikn.github.io/projects)
-
-
-
-  
- 
- 
-  
-  
-
-
-  
-  
-
-
-
-  
- 
- 
-  
-
-
-
-  
+[Back to Projects](https://shouvikn.github.io/projects) 
  
 
 
