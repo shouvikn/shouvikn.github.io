@@ -74,4 +74,20 @@ In this project, we will use the same data set to predict loan eligiblity with t
 
 ---
 
+### [Project 6 : Forecasting of Air Passengers](https://nbviewer.org/github/shouvikn/dataprojects/blob/main/timeseries/Project_%20Time%20Series%20-%20Air%20Passengers.ipynb)
+> Time Series Forecasting - AR, MA & ARMA ( autoregressive–moving-average )
+
+In this project, we will forecast the volume of air passengers based on the historic data. The dataset is from inbuilt dataset in R. The objective is to predict the monthly volume of air passengers for next 24 months.
+
+![](image/timeseries.png)
+
+- Testing stationarity of the data set using ADF (Augmented Dickey-Fuller) test
+- Transform the dataset to be stationarity
+- Analyzing seasionality, trend and residual features for the dataset
+- Implementation of AR, MA & ARMA models to determine the best fit
+- Visualizing the actual, predicted and forecasted values
+
+---
+
+
 
