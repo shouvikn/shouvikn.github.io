@@ -59,5 +59,19 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 ---
 
+### [Project 5 : Prediction of Loan Eligiblity](https://nbviewer.org/github/shouvikn/dataprojects/blob/main/treemodels/Project%20PDS_%20Loan%20Eligibility%20Prediction.ipynb)
+> Decision Tree - Random Forest Classifier
+
+In this project, we will use the same data set to predict loan eligiblity with tree based models. We will implement Decision trees and Random Forest algorithms for classification.
+
+![](image/tree.png)
+
+- Implementation of Decision Tree - full depth
+- Gneralization of full depth Decision Tree
+- Visualizing the tree
+- Implementation of Random Forest Model
+- Comparing the performance of the both models
+
+---
 
 
