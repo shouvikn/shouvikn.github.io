@@ -2,6 +2,7 @@
 
 ### [Capstone Project : Loan Default Prediction](https://shouvikn.github.io/DS-Capstone-Proj)
 > Exploratory Data Analysis - Data Cleansing - SMOTE - GridSearch - RandomSearch
+
 > Random Forest - Decision Trees - KNN - Logistic Regression - ROC - Feature Importance
 
 In this project, we will predict how likely a customer will default a loan. This will be used as an input to make a decision whether a loan can be issued to a customer.
